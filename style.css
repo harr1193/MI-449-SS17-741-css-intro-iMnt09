@@ -1,0 +1,32 @@
+.container {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+h1, .tagline {
+  text-align: center;
+}
+
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+  background-color: #F9F7F5;
+}
+
+header {
+  background-color: #fff;
+  margin-top: 20px;
+  padding: 10px 20px;
+}
+
+header p {
+  font-weight: bold;
+}
+
+section {
+  background-color: #fff;
+}
+
+section img {
+  width: 40px;
+  height: 40px;
+}
