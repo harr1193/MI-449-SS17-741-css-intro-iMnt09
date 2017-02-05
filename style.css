@@ -46,10 +46,10 @@ h2 {
 }
 
 a {
-  color: rgb(129, 0, 161);
+  color: purple;
   text-decoration: none;
 }
 
 a:hover {
-  color: rgb(177, 176, 14);
+  color: orange;
 }
